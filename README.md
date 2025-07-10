@@ -9,18 +9,18 @@ Simulating basic transactional data and using association rules to uncover shopp
 - Analyze with Apriori
 - Generate Rules
 
-#### Simulate Transaction Data
+#### 1. Simulate Transaction Data
 - Creating at least 10 fake transactions in Python.
 - Ensuring each transaction has 2–5 items selected from a pool products with 10 unique items.
 
-#### Analyze with Apriori
+#### 2. Analyze with Apriori
 - Converting the data to one-hot encoded DataFrame.
 - Using the Apriori algorithm to find frequent itemsets with a minimum support of 0.3
 
-#### Generate Rules
+#### 3. Generate Rules
 - Generate association rules with a minimum confidence threshold of 0.7.
 
-#### Briefly describing atleast 2 rules
+#### 4. Briefly describing atleast 2 rules
 
 ##### Rule 1:
 
